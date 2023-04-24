@@ -1,3 +1,8 @@
+# Vision-Language Causal Abstraction
+
+Using a fork of this repository, we are working on adapting the concept of Causal Abstraction from this paper to work on Vision Language Integrated Models such as the BLIP (Bootstrapping Language-Image Pre-training) Transformer, in being able to answer the questions related to the positions of Objects in the both uncorrupted and corrupted images from the CLEVR Dataset [A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](https://arxiv.org/pdf/1612.06890.pdf).
+
+
 # Rank-One Model Editing (ROME)
 
 This repository provides an implementation of Rank-One Model Editing (ROME) on auto-regressive transformers (GPU-only).
